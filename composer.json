@@ -46,6 +46,12 @@
         "symfony/web-profiler-bundle": "^4.4 || ^5.2",
         "vimeo/psalm": "4.7.1"
     },
+    "suggest": {
+        "stefandoorn/sitemap-plugin": "^2.0@alpha"
+    },
+    "suggest": {
+        "stefandoorn/sitemap-plugin": "Adds CMS pages & sections support to the Sylius sitemap plugin"
+    },
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
